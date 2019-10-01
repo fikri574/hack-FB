@@ -5,7 +5,7 @@ bruteforce attack on facebook account script in python
 * apt-get install git python3 python3-pip python python-pip
 
 ## Cara Install Tools BruteForce
-* git clone https://github.com/wisnusaputra123/bruteforce
+* git clone https://github.com/fikri574/hackFB
 * cd bruteforce
 * pip3 install requests bs4
 * pip install mechanize
@@ -18,7 +18,8 @@ bruteforce attack on facebook account script in python
 * Use two way authentication.
 * Make location based login(+browser based).
 
-## Follow Instagram @wisnu_as123 ...
+## Follow Instagram @fikrifikri27
+
 
 
 ~~~
